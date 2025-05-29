@@ -1,6 +1,7 @@
 {
-    "version": "1.0.1",
-    "download_url": "https://drive.google.com/uc?export=download&id=1CvkUCZXzQrTvLvWFaPSH05aK0vNSRHra",
+    "version": "1.0.2",
+    "download_url": "https://drive.google.com/uc?export=download&id=18paw8UHgXIifQqtXyV3wb3nPaIf6rjNr",
     "file_hash": "",
-    "changelog": "- 첫 정식 버전"
+    "changelog": "- 이미지 다운로드 시 여러 이미지 합치기 기능 추가\n- 사용일수 0일 때 결제창 표시\n- 로그인 창
+  크기 확대 및 비밀번호 저장 기능\n- 제외키워드 엑셀 기능 추가\n- 프로그레스바 추가"
   }
