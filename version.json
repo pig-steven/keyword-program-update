@@ -2,6 +2,5 @@
       "version": "1.0.3",
       "download_url": "https://drive.google.com/uc?export=download&id=1QcAFrclWwvUcZL94KVenePz4xHgWdXGZ",
       "file_hash": "",
-      "changelog": "- 일수 차감 로직 수정 (경과한 일수만큼 자동 차감) - 자동 업데이트 시스템 완전 개선 - 업데이트
-  오류 시 상세한 로그 및 사용자 알림 추가"
+      "changelog": "- 일수 차감 로직 수정\n- 자동 업데이트 시스템 개선\n- 업데이트 오류 로그 추가"
   }
