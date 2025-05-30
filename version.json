@@ -2,6 +2,5 @@
       "version": "1.0.2",
       "download_url": "https://drive.google.com/uc?export=download&id=1z4Xj9voCqfQuFEOM-c5N2PtC8CA1VHy8",
       "file_hash": "",
-      "changelog": "- 일수 차감 로직 수정 (경과한 일수만큼 자동 차감)\n- 여러 날 후 실행해도 정확히 차감되도록
-  개선"
+      "changelog": "- 일수 차감 로직 수정 (경과한 일수만큼 자동 차감) - 여러 날 후 실행해도 정확히 차감되도록 개선"
   }
