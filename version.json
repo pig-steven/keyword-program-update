@@ -1,6 +1,6 @@
 {
-      "version": "1.0.3",
-      "download_url": "https://drive.google.com/uc?export=download&id=1QcAFrclWwvUcZL94KVenePz4xHgWdXGZ",
+      "version": "1.0.4",
+      "download_url": "https://drive.google.com/uc?export=download&id=1NpMkvM9o1SyyrcXd7k9iAumKhy0mF3x6",
       "file_hash": "",
-      "changelog": "- 일수 차감 로직 수정\n- 자동 업데이트 시스템 개선\n- 업데이트 오류 로그 추가"
+      "changelog": "- 버전 1.0.4 업데이트\n- 자동 업데이트 시스템 테스트\n- 줄바꿈 문자 호환성 개선"
   }
